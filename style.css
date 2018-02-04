@@ -1,0 +1,12 @@
+#ability{
+  display: none 
+}
+
+#typeHeader{
+  display: none 
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
